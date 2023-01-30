@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+     <style>.cls1{fill:#d946a8;}.cls2{fill:#d946a8;}</style>
+<g>
+	<path class="cls1" d="M59,57h-6V18.414l6-6V57z M13,42.414l6-6V57h-6V42.414z M21,36.414l6,6V57h-6V36.414z M29,42.414l5.999-5.999L35,57h-6
+		V42.414z M37,57l-0.001-22.585L43,28.414V57H37z M45,26.414l6-6V57h-6V26.414z M11,42.414V57H7V38.414L11,42.414z"/>
+	<g>
+		<path class="cls1" d="M11.293,30.707c0.391,0.391,1.023,0.391,1.414,0L20,23.414l7.293,7.293C27.488,30.902,27.744,31,28,31
+			s0.512-0.098,0.707-0.293L51,8.414V12h2V6c0-0.552-0.448-1-1-1h-6v2h3.586L28,28.586l-7.293-7.293
+			c-0.391-0.391-1.023-0.391-1.414,0L12,28.586l-5-5v2.828L11.293,30.707z"/>
+	</g>
+	<polygon class="cls1" points="6,2 2,2 2,62 62,62 62,58 6,58 	"/>
+</g>
+</svg>
